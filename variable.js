@@ -1,0 +1,12 @@
+let numero=69;
+console.log("el valor del numero es:"+numero);
+nombre="carlos";
+edad="18 años";
+console.log(nombre,edad);
+sueldo=5000;
+console.log(nombre,edad," gano:"+sueldo);
+numhijos="2 hijos";
+console.log(nombre,edad,"gano:"+sueldo,"tengo:"+numhijos);
+let femenino=false;
+let masculino=true;
+console.log("mi genero es:","femenino",femenino,"masculino",masculino)     
