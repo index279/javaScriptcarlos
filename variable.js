@@ -9,4 +9,4 @@ numhijos="2 hijos";
 console.log(nombre,edad,"gano:"+sueldo,"tengo:"+numhijos);
 let femenino=false;
 let masculino=true;
-console.log("mi genero es:","femenino",femenino,"masculino",masculino)     
+console.log("mi genero es:","femenino",femenino,"masculino",masculino);     
